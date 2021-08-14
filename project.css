@@ -1,0 +1,22 @@
+h1{
+    color:rgb(rgb(white))
+}
+body{
+    background-color:rgb(rgb(black))
+}
+
+*{
+    border:solid rgb(rgb(rgb(navy)))
+}
+
+.header{
+    background-color:rgb(rgb(rgb(navy)));
+    display:flex;
+    justify-content: space-between;
+}
+
+.grid{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly
+}
